@@ -1,0 +1,5 @@
+Ana Sayfa: Her zaman
+Giriş yapmak kayıt olmak: kullanıcı henüz oturum açmadıysa
+kullanıcı Alanı: Giriş yapıldıysa 
+Moderatör: Moderatörrolü
+Admin: Admin rolü
